@@ -1,5 +1,5 @@
-# Back-End Dog Select Website
-Site created with HTML, TailwindCSS, API, PHP, MySQL, & JavaScript
+# Back-End Fetch My Pet Website
+Site created with HTML, TailwindCSS, an API, PHP, MySQL, & JavaScript
 
 ## Table of contents
 * [General info](#general-info)
@@ -12,11 +12,7 @@ Site created with HTML, TailwindCSS, API, PHP, MySQL, & JavaScript
 ## General info
 When I was trying to learn more about API's I spotted this cool YouTube video [here](https://www.youtube.com/watch?v=AVmGmLFcukM) and wondered how I could implement it into a project. This was my first project using PHP, MySQL and an API. I had used JavaScript and TailwindCSS before and really found TailwindCSS useful. Especially for media queries and making the page responsive, which I'll admit I struggle with a bit.
 
-I hope to go Full-Stack one day and, in my opinion, this was a good project to start with.
-
 This app allows you to first search for different dog breeds using the dog API. Then once you have found a dog breed you like or want to enter, enter in the dogs name, breed, age, gender, and description along with an image of the dog. Then you can view that dog you just entered by searching for the breed.
-
-Website kind of reminded me of looking for a pet at an SPCA. Thanks for viewing!
 
 
 <!-- ## Screenshots from figma
@@ -31,7 +27,7 @@ A few screenshots of the Final Design in Figma. Some elements in Figma design we
 
 
 ## Live Demo
-View live demo here: [Demo](http://php-dogapp.herokuapp.com/doggo-select/public/)
+View live demo here: [Demo]()
 
 
 
