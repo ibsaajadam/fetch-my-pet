@@ -58,7 +58,7 @@
 </head>
 <body>
 
-<a href="/"><h1 class="title">find me pets</h1></a>
+<a href="/"><h1 class="title">find me pets!</h1></a>
 
 <div class="article-container">
 <?php 
@@ -68,7 +68,7 @@
     $result = mysqli_query($conn, $sql);
     $queryResult = mysqli_num_rows($result);
 
-    echo "There are ".$queryResult." results!";
+    echo "There are ".$queryResult." results!<br><br>";
 
     if ($queryResult > 0) {
       while ($row = mysqli_fetch_assoc($result)) {

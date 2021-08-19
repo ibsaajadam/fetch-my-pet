@@ -1,7 +1,8 @@
-# Back-End Fetch My Pet Website
-Site created with HTML, TailwindCSS, an API, PHP, MySQL, & JavaScript
+# Find Me Pets Full-Stack Website
+Site created with HTML5, TailwindCSS, an API, PHP, MySQL, & JavaScript
 
 ## Table of contents
+* [Screenshots](#screenshots)
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Live Demo](#live-demo)
@@ -15,20 +16,17 @@ When I was trying to learn more about API's I spotted this cool YouTube video [h
 This app allows you to first search for different dog breeds using the dog API. Then once you have found a dog breed you like or want to enter, enter in the dogs name, breed, age, gender, and description along with an image of the dog. Then you can view that dog you just entered by searching for the breed.
 
 
-<!-- ## Screenshots from figma
-A few screenshots of the Final Design in Figma. Some elements in Figma design were changed when converted to HTML, CSS, & JavaScript
-<img src="https://i.imgur.com/RpA4sVl.png">
-<img src="https://i.imgur.com/0QXHWpW.png">
-<img src="https://i.imgur.com/XU9JaDE.png"> -->
+## Screenshots 
+
+<img src="img/find-me-pets.png">
 
 
 ## Technologies
-* HTML, TailwindCSS, API, PHP, MySQL, & JavaScript
+* HTML5, TailwindCSS, API, PHP, MySQL, & JavaScript
 
 
 ## Live Demo
-View live demo here: [Demo]()
-
+View live demo here: [Demo](https://find-me-pets.000webhostapp.com/)
 
 
 ## Status

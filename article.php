@@ -55,7 +55,7 @@
   </style>
 </head>
 <body>
-  <a href="/"><h1 class="title">find me pets</h1></a>
+  <a href="/"><h1 class="title">find me pets!</h1></a>
 
   <div class="article-container">
     <?php
