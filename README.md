@@ -14,6 +14,7 @@ Site created with HTML5, TailwindCSS, an API, PHP, MySQL, & JavaScript
 ## Screenshots 
 
 <img src="public/img/find-me-pets.png">
+<img src="public/img/find-me-pets-two.png">
 
 ## General info
 When I was trying to learn more about API's I spotted this cool YouTube video [here](https://www.youtube.com/watch?v=AVmGmLFcukM) and wondered how I could implement it into a project. This was my first project using PHP, MySQL and an API. I had used JavaScript and TailwindCSS before and really found TailwindCSS useful. Especially for media queries and making the page responsive, which I'll admit I struggle with a bit.
