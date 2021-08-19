@@ -21,8 +21,7 @@
     $image_type = $_FILES['image']['type'];
     $image_ext = strtolower(end(explode('.', $_FILES['image']['name'])));
 
-
-
+    
     $extensions = array("jpeg", "jpg", "png");
 
     if (in_array($image_ext, $extensions) === false){
