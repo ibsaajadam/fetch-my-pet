@@ -48,7 +48,6 @@ $page = 'home';
     }
 
     .tabsContainer {
-      /* margin-left: 150px; */
       text-align: center;
     }
 
@@ -117,10 +116,11 @@ $page = 'home';
      </div>
 
   <section class="bg-gradient-to-r from-green-400 via-blue-500 to-orange-500">
+
     <div class="grid md:grid-cols-1 text-center">
 
       <!-- Input Dog -->
-      <form name="doginput" method="POST" action="../doginput.php" enctype="multipart/form-data">
+      <form name="doginput" method="POST" action="../doginput.php" enctype="multipart/form-data" onsubmit="alert('Form Submitted Successfully. Thank you!');">
         <div class="text-2xl text-white mt-3 mb-3">Input Dog</div>
         <label for="dog-name">Name</label>
         <input class="w-48 mb-2 focus:outline-black" type="text" name="name" placeholder=" Name">

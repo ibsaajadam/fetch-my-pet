@@ -52,12 +52,6 @@
       $_SESSION['msg'] = "incorrect";
       $_SESSION['valid'] = false;
     }
-
-      // if (move_uploaded_file($_FILES['image']['tmp_name'], $target)) {
-      //   $msg = "image uploaded successfully";
-      // } else {
-      //   $msg = "Failed to upload image";
-      // }
   }
 
   $result = mysqli_query($conn, "SELECT * FROM dogs");
