@@ -1,6 +1,6 @@
 # Find Me Pets Full-Stack Website
 
-Site created with HTML5, TailwindCSS, an API, PHP, MySQL, JavaScript & Deployed with 000webhost.com
+Site created with HTML5, TailwindCSS, Fetch API, PHP, MySQL, JavaScript & Deployed with 000webhost.com
 
 ## Table of contents
 
@@ -18,7 +18,7 @@ Site created with HTML5, TailwindCSS, an API, PHP, MySQL, JavaScript & Deployed 
 
 ## Technologies
 
-- HTML5, TailwindCSS, an API, PHP, MySQL, JavaScript & Deployed with 000webhost.com
+- HTML5, TailwindCSS, Fetch API, PHP, MySQL, JavaScript & Deployed with 000webhost.com
 
 ## Live Demo
 
