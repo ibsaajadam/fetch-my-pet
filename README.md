@@ -1,4 +1,4 @@
-# Find Me Pets Full-Stack Website
+# That's My Dog Full-Stack Website
 
 Site created with HTML5, TailwindCSS, Fetch API, PHP, MySQL, JavaScript & Deployed with 000webhost.com
 
