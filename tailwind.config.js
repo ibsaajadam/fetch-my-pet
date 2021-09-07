@@ -6,7 +6,7 @@ module.exports = {
       outline: {
         black: '2px solid #000000',
         blue: '2px solid #3875e3'
-      },
+      }
     }
   },
   variants: {
