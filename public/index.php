@@ -42,7 +42,7 @@ $page = 'home';
   <header class="pt-8 pb-4 overflow-x-hidden w-full h-full bg-no-repeat bg-cover bg-center bg-fixed" style="background-image: url('./img/dogz.jpg');">
 
     <div class="absolute top-6 left-6">
-      <h1 class="text-3xl text-white">That's My Dog!</h1>
+      <h1 class="text-3xl font-bold text-white">That's My Dog!</h1>
     </div>
 
     <div class="app h-50 w-100 flex flex-col text-center mt-20">

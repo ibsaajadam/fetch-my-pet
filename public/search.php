@@ -43,7 +43,7 @@ $page = 'search';
 
     <div class="absolute top-6 left-6">
       <a class="no-underline text-white" href="/">
-        <h1 class="text-3xl">That's My Dog!</h1>
+        <h1 class="text-3xl font-bold">That's My Dog!</h1>
       </a>
     </div>
 
