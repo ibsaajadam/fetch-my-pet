@@ -1,4 +1,4 @@
-# Find Me Pets Full-Stack Website
+# That's My Dog Full-Stack Website
 
 Site created with HTML5, TailwindCSS, Fetch API, PHP, MySQL, JavaScript & Deployed with 000webhost.com
 
@@ -11,8 +11,8 @@ Site created with HTML5, TailwindCSS, Fetch API, PHP, MySQL, JavaScript & Deploy
 
 ## Screenshots
 
-<img src="public/img/find-me-pets.png">
-<img src="public/img/find-me-pets-two.png">
+<img src="public/img/thats.png">
+<img src="public/img/search.png">
 
 ## Technologies
 
@@ -20,7 +20,7 @@ Site created with HTML5, TailwindCSS, Fetch API, PHP, MySQL, JavaScript & Deploy
 
 ## Live Demo
 
-View live demo here: [Demo](https://find-me-pets.000webhostapp.com/)
+View live demo here: [Demo](https://thatsmydog.000webhostapp.com/)
 
 ## Contact
 
