@@ -12,7 +12,7 @@ Site created with HTML5, TailwindCSS, Fetch API, PHP, MySQL, JavaScript & Deploy
 ## Screenshots
 
 <img src="public/img/thats.png">
-<img src="public/img/search.png">
+<img src="public/img/find-me-pets-two.png">
 
 ## Technologies
 
